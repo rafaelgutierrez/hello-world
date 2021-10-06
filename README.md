@@ -1,4 +1,5 @@
 # hello-world
 repository to learn github
-soy alguien interesado por data science
+estoy dudando para que es este repositorio por esta razon voy a realizar una prueba para
+realizar las operaciones de extraccion en este repositorio
 ss
